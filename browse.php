@@ -1,6 +1,6 @@
 <?php
 // Database connection
-// this is a file for the project 
+// this is a file for the project that I am trying to  
 require_once('Models/Database.php');
 $db = new Database();
 $conn = $db->connect();
